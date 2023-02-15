@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="notes">Catatanku</string>
+    <string name="notes_title">Judul Catatan</string>
+    <string name="notes_sub_title">sub judul</string>
+    <string name="notes_desc">Masukkan catatan disini</string>
+    <string name="web_url">Enter Web Url</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="storage_permission_text">This app needs access to your storage.</string>
+    <string name="search">Cari Catatanmu</string>
+</resources>
